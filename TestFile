@@ -8,3 +8,10 @@ public static void testMethod()
 {
     System.out.println("Test method for test file");
 }
+
+//Mark Lohan
+
+public static void testMethod2()
+{
+    System.out.println("Hello World!");
+}
