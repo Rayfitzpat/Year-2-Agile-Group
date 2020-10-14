@@ -29,3 +29,10 @@ System.out.println("Test");
 System.out.println("Test2, fresh install OS");
 }
 
+/****************************************************/
+/********************Branch Test*********************/
+/****************************************************/
+
+//This is a part that is commited to a master branch
+
+
