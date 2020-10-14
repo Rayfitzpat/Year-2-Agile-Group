@@ -16,6 +16,11 @@ public static void testMethod2()
     System.out.println("Hello World!");
 }
 
+//Martynas Mensa
+{
+    System.out.println("Test!");
+}
+
 
 //Jack Doolan
 public static void main(String [] args)
