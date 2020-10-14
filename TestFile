@@ -29,10 +29,9 @@ System.out.println("Test");
 System.out.println("Test2, fresh install OS");
 }
 
-/****************************************************/
-/********************Branch Test*********************/
-/****************************************************/
-
-//This is a part that is commited to a master branch
-
+//Mark Lohan
+public static void testMethod3()
+{
+    System.out.println("Hello World! This is my branch test");
+}
 
